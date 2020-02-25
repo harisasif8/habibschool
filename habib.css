@@ -1,0 +1,323 @@
+.head{
+ background-color: #b22222;
+  height: 160px; 
+  
+}    
+.oppo
+{
+	background-image: url(logo.jpg);
+
+	background-size: cover;
+	background-position: center;
+	height: 110px;
+	width: 280px;
+	margin-left:530px; 
+	
+}
+
+.L
+{
+	
+	float: left;
+	margin-top: -100px;
+	list-style-type: none;
+	margin-left: 50px;
+
+}
+.L2
+{
+	float: left;
+	margin-top: -100px;
+	margin-left: 200px;
+	list-style-type: none;
+	
+
+}
+.L3{float: left;
+	margin-left: 900px;
+	margin-top: -100px;
+	list-style-type: none;
+}
+.L4{float: left;
+	margin-left: 1030px;
+	margin-top: -100px;
+	list-style-type: none;
+}
+.L5{
+	float: left;
+	margin-left: 1140px;
+	margin-top: -100px;
+list-style-type: none;
+}
+
+.A
+{
+	text-decoration: none;
+	color: white;
+}
+ul li:hover
+{
+	cursor: pointer;
+
+}
+.A:hover
+{
+	text-decoration: underline;
+
+}
+
+*
+{
+    margin: 0px; 
+
+}
+.H1{
+	height: 50px;
+	background-color: coral;}
+.LL1{
+	float: left; margin-left:100px; list-style-type: none; margin-top: 15px; }
+.LL2{
+	float: left; margin-left:50px; list-style-type: none; margin-top: 15px; }
+.LL3{
+	float: left; margin-left:50px; list-style-type: none; margin-top: 15px; }
+.LL4{
+	float: left; margin-left:50px; list-style-type: none; margin-top: 15px; }
+.LL5{
+	float: left; margin-left:50px; list-style-type: none; margin-top: 15px; }
+.LL6{
+	float: left; margin-left:50px; list-style-type: none; margin-top: 15px; }
+.LL7{
+	float: left; margin-left:50px; list-style-type: none; margin-top: 15px; }
+.LL8{
+	float: left; margin-left:50px; list-style-type: none; margin-top: 15px; }
+  
+	a
+{
+	text-decoration: none;
+	color: black;
+}
+
+
+.listing1
+{  text-decoration: none;
+color: white;
+list-style-type: none;
+padding-top: 10px;
+margin-left: -20px;
+font-size: 18px;
+font-weight: normal;
+
+
+}
+
+.ULL {
+ background-color: #b22222 ;
+ list-style-type: none;
+ display: none;
+ 
+ width: 240px;
+ box-sizing: border-box;
+ text-align: left;
+ line-height: 1.25;
+ z-index: 1000px;
+ 
+ left: 210px;
+ position: absolute;
+}
+
+ nav ul li:hover ul{ 
+ 	display: block; }
+
+nav ul li ul li:hover{ text-decoration: underline;
+ }
+
+.listing2
+{  text-decoration: none;
+color: white;
+list-style-type: none;
+padding-top: 10px;
+margin-left: -20px;
+font-size: 18px;
+font-weight: normal;
+
+}
+.ULL2 {
+ background-color: #b22222 ;
+ list-style-type: none;
+ display: none;
+ 
+ width: 240px;
+ box-sizing: border-box;
+ text-align: left;
+ line-height: 1.25;
+ z-index: 1000px;
+ margin: 0%;
+ left: 350px;
+ position: absolute;
+}
+.listing3
+{  text-decoration: none;
+color: white;
+list-style-type: none;
+padding-top: 10px;
+margin-left: -20px;
+font-size: 18px;
+font-weight: normal;
+
+}
+.ULL3{
+ background-color: #b22222 ;
+ list-style-type: none;
+ display: none;
+ 
+ width: 240px;
+ box-sizing: border-box;
+ text-align: left;
+ line-height: 1.25;
+ z-index: 1000px;
+ margin: 0%;
+ left:  600px;
+ position: absolute;
+}
+.D{  background-image: url(1.jpg);
+     width: 1340px;
+     height: 600px;
+     background-size: cover;
+     float: left;
+     
+ }
+ .D1{  height: 200px;
+ width: 1340px;
+ background-color: black; 
+ margin-top: 200px; 
+  
+ }
+ .S{  width: 1340px;
+ height: 60px;
+ background-color: #b22222;
+ margin-top: 200px; }
+ h1{  color: white;
+ 	font-family: sans-serif;
+ 	font-size: medium;
+    font-size: 21px; 
+	margin-left: 140px; }
+
+	.msg{ 
+	height: 250px;
+	background-color: wheat;
+	}
+	#prin{padding-left: 130px;
+	padding-top: 30px;
+float: left;}
+
+	#prinh6{padding-left: 300px;
+	padding-top: -120px;
+  	
+ }
+
+	#para{font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+padding-left: 300px;}
+
+.foot{
+	height: 125px;
+	background-color:#b22222 ;
+	margin-top: 210px;
+	
+
+}
+
+.facebook{color: white; 
+text-decoration: none;
+margin-left: 500px;
+}
+.twitter{color: white; text-decoration: none; margin-left: 5px;}
+.linkedin{color: white; text-decoration: none; margin-left: 5px;}
+.photobucket{color: white; text-decoration: none; margin-left: 5px;}
+.dailymotion{color: white; text-decoration: none; margin-left: 5px;}
+
+#fh5{ color: white; margin-top: 20px;
+margin-left: 10px;}
+
+#cdiv{height: 430px;
+background-color: wheat;
+}
+#ch1{color: #b22222 ;
+font-size: xx-large;
+text-align: center;
+padding-top: 20px;
+font-family: sans-serif;
+}
+#ch3{padding-left: 310px;}
+#cp{padding-left: 310px; float: left;}
+
+.ifr{  padding-left: 650px;
+	   margin-top: -170px;
+}
+
+
+.adiv{ height: 430px;
+	background-color: wheat;}
+
+	#ap{font-family: Arial, Helvetica, sans-serif; font-size: large;}
+#aadiv{ height: 200px; padding-left: 130px; padding-right: 130px;}
+
+.acdiv{height: 430px;
+	background-color: wheat;}
+	
+	#acs{color: #b22222;}
+
+	#hacs{color: #b22222;}
+	#pacs{color: black; font-family: Arial, Helvetica, sans-serif; margin-left: 140px;}
+	#pacs1{color: black; font-family: Arial, Helvetica, sans-serif; margin-left: 140px;}
+
+	.admdiv{height: 430px;
+		background-color: wheat;}
+
+		#admh1{color:#b22222 ;}
+		#admh2{color: black; font-family: Arial, Helvetica, sans-serif; margin-left: 140px;}
+		#admp{color: black; font-family: Arial, Helvetica, sans-serif; margin-left: 140px;}
+		#admhh2{color: black; font-family: Arial, Helvetica, sans-serif; margin-left: 140px;}
+		#admp1{color: black; font-family: Arial, Helvetica, sans-serif; margin-left: 140px;}
+
+		.syllabus{color: #b22222; font-size: xx-large; margin-left: 140px;}
+
+		.std{ height: 1400px;
+			background-color: wheat;}
+			#stdp{color:saddlebrown; font-family: Arial, Helvetica, sans-serif; margin-left: 140px; }
+			#cdt{ height: 330px; width: 330px; padding-left: 140px; }
+			#bbh{color:#b22222 ; margin-top: 70px; }
+			#bb{height: 330px; width: 330px; padding-left: 140px; }
+
+			.sports{height: 530px;
+				background-color: wheat;}
+				
+				.faqs{height: 650px;
+					background-color: wheat;}
+
+					.career{height: 650px;
+						background-color: wheat;}
+						#csp{color: saddlebrown; font-family: Arial, Helvetica, sans-serif; }
+
+						.rldh{height: 2350px;
+							background-color: wheat;}
+							#rdh1{color: #b22222; font-family: Arial, Helvetica, sans-serif; margin-left: 140px;}
+							.sfacilities{height: 1830px;
+								background-color: wheat;}
+
+								.campus{height: 1430px;
+									background-color: wheat;}
+
+									#credits{color: white; margin-top: -25px;
+										margin-left: 1160px;}
+
+										#cfoot{
+											height: 120px;
+											background-color:#b22222 ;
+											margin-top: 0px;
+																					
+										}
+										#social{color: white;
+											text-align: center;
+											padding-top: 15px;
+											}
